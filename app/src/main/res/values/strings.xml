@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">Port Harcourt Tour Guide App</string>
+
+    <!-- Category name for restaurant [CHAR LIMIT=20] -->
+    <string name="category_restaurant">Restaurants</string>
+
+    <!-- Category name for churches [CHAR LIMIT=20] -->
+    <string name="category_churches">Churches</string>
+
+    <!-- Category name for hotels [CHAR LIMIT=20] -->
+    <string name="category_hotel">Hotels</string>
+
+    <!-- Category name for coys [CHAR LIMIT=20] -->
+    <string name="category_companies">Companies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!-- Below are the string resources for the restaurant and about them -->
+    <string name="spice_route">Spice Route</string>
+    <string name="about_spice_route">If you love Indian food, this is the place to be,
+        it is also a hub for those Friday nights rendezvous. Spice is the new spot in Port-Harcourt
+        city. Also, when you visit take time to look at Buddha’s statue.
+        Located at, No 1 Azikiwe Road, shop 36/37 Port Harcourt Mall. \nPure passion coupled with a
+        drive to succeed and an unquenching thirst for authentic and flavorful Indian food led to
+        the creation of the brand.
+    </string>
+
+    <string name="asian_town">Asian Town</string>
+    <string name="about_asian_town">Port-Harcourt has always played home to some of the best
+        Chinese cuisine, but this beats standards set before its arrival, a serene and cool
+        place to have lunch, dinner, even to throw that Dinner party. Personal Recommendation;
+        Sunday Brunch is always lit, you should try it. Located at No 24 Forces Avenue, Old GRA,
+        Port-Harcourt.
+    </string>
+
+    <string name="charcoal">Charcoal and Spice</string>
+    <string name="about_charcoal">
+        Located at the heart of GRA, Charcoal and spice is a place to
+        have that brunch after a busy half day, the serenity of this place is second to none,
+        so if you imagine having that lush taste of good food in your mouth while you sit in a
+        beautiful garden, you can find them at King Perekule street, GRA phase 2. Don’t worry,
+        you can’t miss it.
+    </string>
+
+    <string name="cravings">Cravings</string>
+    <string name="about_cravings">Port Harcourt’s finest dining restaurant, if you have in mind
+        to meet the Porsche young folks in the city or maybe you want to have a good time with a
+        friend or even alone, this is your joint. The food alone speaks volumes, you should try it
+        out. Located at, 20 Elelenwo street, GRA Phase 2, Port Harcourt.
+    </string>
+
+    <string name="salvation">Salvation Ministries</string>
+    <string name="about_salvation">Salvation Ministries started on the 13th of April 1997 at
+        plot 35 Birabi Street GRA 1 Port Harcourt with 34 members: 15 males, 10 females and 9
+        children in attendance. \nToday, she has become a church with an over-flowing crowd in her
+        headquarters presently located at plot 17 Birabi Street GRA 1 Port Harcourt, her satellite
+        churches and on the internet. Salvation Ministries has increased from one Sunday service to
+        five power-packed Sunday services.
+    </string>
+
+    <string name="tka">The King\'s Assembly</string>
+    <string name="about_tka">Started first service on Sunday, 3rd of October 2004 at
+        Aladumo Miracle Hall, Aba Road, Port Harcourt. The Ministry has since grown to our
+        present location at 1, Stadium Road, By Airforce Junction, Port Harcourt, Nigeria
+        and our first international mission centre office in South Africa.
+    </string>
+
+    <string name="hotr">House on the Rock, Port Harcourt</string>
+    <string name="about_hotr">House on the Rock, Port Harcourt is a parish of House on the Rock
+        church; one of the fastest growing churches in Nigeria. \nIn December 1994, with a vision of
+        empowering believers to fulfil their God ordained destinies, the church under the leadership
+        of Pastor Paul Adeolu Adefarasin started with a Friday night prayer meeting with seven (7)
+        people in attendance. From this humble beginning, the church family has now become
+        multi-racial and multi-faceted with over seven thousand (7, 000) people in attendance in the
+        headquater church, which holds its services at the Muson Center in Lagos, Nigeria. \nSince
+        1994, over 50 branches of the church family have been birth in Europe and Africa.
+        House on theRock, Port Harcourt was birth in May 2000 and serves as a paradigm for
+        cutting-edge ministry in the city of Port Harcourt and its environs.
+    </string>
+
+    <string name="jesus_house">RCCG, Jesus House Parish</string>
+    <string name="about_jesus_house">RCCG Jesus House PHC is where Jesus lives!! Come and you will
+        meet Him. It is with great joy that we welcome you to JESUS HOUSE, PHC.
+    </string>
+
+    <string name="phrc">The Port Harcourt Refining Company, PHRC.</string>
+    <string name="about_phrc">PHRC is a Nigeria-based oil and gas company primarily specializing in
+        the refining of crude oil into petroleum products. It is headquartered in Port Harcourt
+        metropolitan area of Rivers State, southeastern Nigeria. The company is a subsidiary of the
+        Nigerian National Petroleum Corporation (NNPC).\nLocated in Alesa Eleme just to the southeast
+        of Port Harcourt, the company operates two oil refineries, including an old plant
+        commissioned in 1965 that can process 60,000
+        barrels of oil per stream day (bpsd), as well as the new plant commissioned in 1989,
+        which has a capacity of 150,000 bpsd. Both oil refineries possess a combined capacity of
+        210,000 barrels per stream day making PHRC the "biggest oil refining company in Nigeria"
+    </string>
+
+    <string name="epcl">Eleme Petrochemicals Company Limited (EPCL)</string>
+    <string name="about_epcl">Located in Port Harcourt, Rivers State, is a petrochemicals complex
+        originally fully-owned by the Federal Government of Nigeria and commissioned in 1996.
+        Although constructed to international standards, located to take advantage of Nigeria’s
+        abundant supplies of natural gas, and designed to manufacture products for which there was
+        consistently high demand. \nIn 2006, EPCL was privatised by the sale of 75% of its shares to a core investor through
+        a competitive bidding process. Little international interest was attracted. The company
+        was sold to Indorama Group without liabilities which were retained by the FGN. The company
+        was handed over on October 26, 2006. \nIndorama immediately embarked upon a $130 million turnaround maintenance and capital
+        investment programme, returning the facility to operating condition within four months.
+        Its production output quickly surpassed pre-privatisation levels. EPCL immediately returned
+        to profitability, buoyed by rising world prices for the polyolefins it produced.
+    </string>
+
+    <string name="nlng">Nigeria LNG Limited</string>
+    <string name="about_nlng">Nigeria LNG Limited was incorporated as a limited liability company
+        on May 17, 1989 to harness Nigeria\'s vast natural gas resources and produce Liquefied
+        Natural Gas (LNG) and Natural Gas Liquids (NGLs) for export.\nThe company is owned by four shareholders, namely, the Federal Government of Nigeria,
+        represented by Nigerian National Petroleum Corporation (49%); Shell (25.6%);
+        Total Gaz Electricite Holdings France​ (15%) and Eni (10.4%).\nWith six trains currently operational, NLNG\'s plant, on Bonny Island in Rivers State,
+        is capable of producing 22 Million Tonnes Per Annum (MTPA) of LNG, and 5 MTPA of NGLs
+        (LPG and Condensate) from 3.5 Billion (standard) cubic feet per day (Bcf/d) of natural gas
+        intake. NLNG\'s near term expansion plans include construction of a seventh train to
+        complement the existing six train structure, which when in operation will up the company\'s
+        total production capacity to 30 million tonnes per annum (MTPA) of LNG.
+​ </string>
+
+    <string name="shell">Shell Producing and Development Company</string>
+    <string name="about_shell">Shell has been active in Nigeria since 1937.  Shell companies and
+        investments have played a pioneering role in onshore, shallow and deep water oil exploration
+        and production. Shell has also been at the forefront of gas development, producing and
+        delivering gas to domestic consumers and export markets for over 40 years. \nThe Shell Petroleum Development Company of Nigeria Limited (SPDC) is the largest Shell
+        company in Nigeria and produced the country’s first commercial oil exports in 1958. SPDC
+        is the operator of a joint venture (the SPDC JV) between the government-owned Nigerian
+        National Petroleum Corporation – NNPC (55% share), SPDC (30%), Total E and P Nigeria Ltd (10%)
+        and the ENI subsidiary Agip Oil Company Limited (5%). It is focused on onshore and shallow
+        water oil and gas production in the Niger Delta.
+    </string>
+
+    <string name="presidential">Hotel Presidential</string>
+    <string name="about_presidential">Hotel Presidential – managed by Courdeau Nigeria Limited –
+        is located in the heart of the Garden City - Port Harcourt, \'the Capital of Rivers State\',
+        Nigeria, and less than an hour drive from the International and Domestic Airport.
+        Being centrally situated within the business districts and the main shopping areas of the
+        city, Hotel Presidential is an ideal choice for both leisure and business travelers. \nThe
+        hotel\'s 5-Star status is reflected through its 241 tastefully furnished Rooms and 53
+        spacious Suites, in addition to several banquet halls that can definitely meet your
+        expectations. 24-Hour concierge, room service and laundry available. To ease your stress,
+        you can play tennis in one of our two courts with your partners or our coach, visit our
+        gymnasium that is open from 6am till 10pm, or even swim in our 33meter outdoor pool,
+        which makes your stay even more enjoyable.
+    </string>
+
+    <string name="novotel">Novotel</string>
+    <string name="about_novotel">
+        Novotel Port Harcourt offers the perfect blend of comfort and convenience for your
+        visit to the Garden City. Its location is ideal for both leisure and business travelers
+        conveniently situated only 20 minutes from the Airport and golf course. Our rooms are
+        spaciously designed to suit every traveling style or requirement. Facilities include
+        restaurant, bar, laundry service, pool, parking and fitness center. Venues accommodate up
+        to 340 delegates with flexible packages available to suite your convenience.\nNovotel Port
+        Harcourt is located at 3 Stadium Road Rumuomasi,
+        3.9 miles from the center of Port Harcourt. Liberation Stadium is the closest landmark to
+        Novotel Port Harcourt.
+    </string>
+
+    <string name="laking">LA King Hotel</string>
+    <string name="about_laking">A stay at L.A Kings Hotel places you in the heart of Port Harcourt,
+        a 3-minute drive from Liberation Stadium and 9 minutes from Sharks Stadium.
+        Featured amenities include a business center, dry cleaning/laundry services,
+        and a 24-hour front desk. Guests may use a roundtrip airport shuttle for a surcharge,
+        and free self parking is available onsite.
+    </string>
+
+    <string name="golden">Golden Tulip, Port Harcourt</string>
+    <string name="about_golden">A stay at Golden Tulip Port Harcourt places you in the heart of
+        Port Harcourt, a 4-minute drive from Liberation Stadium and 7 minutes from Sharks Stadium.
+        Featured amenities include a 24-hour business center, complimentary newspapers in the lobby,
+        and dry cleaning/laundry services. Guests may use a roundtrip airport shuttle for a
+        surcharge, and free self parking is available onsite.
+    </string>
+
+    <string name="web_resource"> Web Resource </string>
+    <string name="web_presidential">https://www.presidential-hotel.com/</string>
+    <string name="web_novotel">https://www.kayak.com/Port-Harcourt-Hotels-Novotel-Port-Harcourt.59057.ksp</string>
+    <string name="web_laking">https://www.kayak.com/Port-Harcourt-Hotels-L-A-Kings-Hotel.3126543.ksp</string>
+    <string name="web_golden">https://www.kayak.com/Port-Harcourt-Hotels-Golden-Tulip-Port-Harcourt.645609.ksp#description</string>
+    <string name="web_nlng">http://www.nlng.com/Careers/Pages/Home.aspx</string>
+    <string name="web_phrc">https://www.nnpcgroup.com/Refining/Pages/PHRC.aspx</string>
+    <string name="web_shell">https://www.shell.com.ng/</string>
+    <string name="web_epcl">https://www.indoramaeleme.com/</string>
+    <string name="web_hotr">https://houseontherock.org.ng/</string>
+    <string name="web_tka">https://www.thekingsassembly.org/</string>
+    <string name="web_salvation">https://smhos.org/</string>
+    <string name="web_jesus_house">http://www.rccgjesushousephc.org/</string>
+    <string name="web_craving">https://ofadaa.com/port-harcourt/restaurants/cravings-restaurant-cafe</string>
+    <string name="web_charcoal">https://ofadaa.com/port-harcourt/restaurants/charcoal-spice-restaurant</string>
+    <string name="web_asian">https://www.tripadvisor.com/Restaurant_Review-g298363-d4894337-Reviews-AsiaTown-Port_Harcourt_Rivers_State.html</string>
+    <string name="web_spice_route">http://spicerouterestaurants.com/about-us</string>
+
+
+
+</resources>
